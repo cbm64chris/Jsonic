@@ -1,0 +1,2 @@
+# Jsonic
+Serializer and Deserializer
